@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #333;
+    cursor: pointer;
+}
+ul li{
+    width: 360px;
+    height: 30px;
+    line-height:30px;
+    list-style:none;
+    color:#fff;
+    background-color: #666;
+    font-family: '楷体';
+    border-bottom:1px solid slategray;
+}
+ul li:hover{
+    background-color:lightcoral;
+}
+.accordion{
+    width: 360px;
+    background-color: #fff;
+    margin: 50px auto;
+    border-radius:10px;
+}
+.accordion .text ul{
+    display:none;
+}
+h1{
+    font-family: '楷体';
+    border-bottom:1px solid #eee;
+}
+
+
+
+/*
+
+.dp_cont{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.dp_tmp span{
+    font-size: 20px;
+    color:#0000ff;
+    font-family: '楷体';
+    cursor: pointer;
+}
+
+*/
+
+
+
+
+
+
+
+
+
+
